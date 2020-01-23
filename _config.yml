@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
-title                    : "일상과 개발 이야기"
+title                    : "일상이야기 && 개발노트"
 title_separator          : "-"
 subtitle                 : "Dev History & Life note"
 name                     : "gdpark"
