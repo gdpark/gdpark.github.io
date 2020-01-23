@@ -1,1 +1,1 @@
-# gdlifenote.github.io
+# gdpark.github.io
