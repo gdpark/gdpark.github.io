@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+https://dailywritings.tistory.com/sitemap.xml
